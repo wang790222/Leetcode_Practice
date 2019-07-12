@@ -122,6 +122,7 @@
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Javascript](solutions/860_LemonadeChange.js) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Javascript](solutions/876_MiddleoftheLinkedList.js) |
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [Javascript](solutions/888_FairCandySwap.js) |
+| 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Javascript](solutions/890_FindAndReplacePattern.js) |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | [Javascript](solutions/897_IncreasingOrderSearchTree.js) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Javascript](solutions/905_SortArrayByParity.js) |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [Javascript](solutions/917_ReverseOnlyLetters.js) |
