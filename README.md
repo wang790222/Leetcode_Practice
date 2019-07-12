@@ -139,5 +139,6 @@
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Javascript](solutions/989_AddtoArray-FormofInteger.js) |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [Javascript](solutions/999_AvailableCapturesforRook.js) |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Javascript](solutions/1002_FindCommonCharacters.js) |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | [Javascript](solutions/1005_MaximizeSumOfArrayAfterKNegations.js) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [Javascript](solutions/1046_LastStoneWeight.js) |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | [Javascript](solutions/1089_DuplicateZeros.js) |
