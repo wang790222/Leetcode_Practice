@@ -84,6 +84,7 @@
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Javascript](solutions/383_RansomNote.js) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Javascript](solutions/387_FirstUniqueCharacterinaString.js) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [Javascript](solutions/389_FindtheDifference.js) |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Javascript](solutions/392_IsSubsequence.js) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Javascript](solutions/412_FizzBuzz.js) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [Javascript](solutions/414_ThirdMaximumNumber.js) |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Javascript](solutions/415_AddStrings.js) |
