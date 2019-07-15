@@ -113,6 +113,7 @@
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [Javascript](solutions/696_CountBinarySubstrings.js) |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Javascript](solutions/700_SearchinaBinarySearchTree.js) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Javascript](solutions/709_ToLowerCase.js) |
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) | [Javascript](solutions/717_1-bitAnd2-bitCharacters.js) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Javascript](solutions/728_SelfDividingNumbers.js) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Javascript](solutions/739_DailyTemperatures.js) |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Javascript](solutions/746_MinCostClimbingStairs.js) |
