@@ -14,6 +14,7 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Javascript](solutions/27_RemoveElement.js) |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Javascript](solutions/28_ImplementstrStr().js) |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Javascript](solutions/29_DivideTwoIntegers.js) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Javascript](solutions/33_SearchInRotatedSortedArray.js) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Javascript](solutions/35_SearchInsertPosition.js) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Javascript](solutions/36_ValidSudoku.js) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Javascript](solutions/53_MaximumSubarray.js) |
