@@ -24,6 +24,7 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Javascript](solutions/67_AddBinary.js) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Javascript](solutions/69_Sqrt(x).js) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Javascript](solutions/70_ClimbingStairs.js) |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | [Javascript](solutions/81_SearchInRotatedSortedArrayII.js) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Javascript](solutions/83_RemoveDuplicatesfromSortedList.js) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Javascript](solutions/88_MergeSortedArray.js) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Javascript](solutions/94_BinaryTreeInorderTraversal.js) |
