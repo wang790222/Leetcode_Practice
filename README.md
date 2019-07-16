@@ -125,6 +125,7 @@
 | 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Javascript](solutions/821_ShortestDistancetoaCharacter.js) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | [Javascript](solutions/832_FlippinganImage.js) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Javascript](solutions/852_PeakIndexinaMountainArray.js) |
+| 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [Javascript](solutions/859_BuddyStrings.js) |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Javascript](solutions/860_LemonadeChange.js) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Javascript](solutions/876_MiddleoftheLinkedList.js) |
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [Javascript](solutions/888_FairCandySwap.js) |
