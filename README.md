@@ -122,6 +122,7 @@
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Javascript](solutions/728_SelfDividingNumbers.js) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Javascript](solutions/739_DailyTemperatures.js) |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Javascript](solutions/746_MinCostClimbingStairs.js) |
+| 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [Javascript](solutions/747_LargestNumberAtLeastTwiceOfOthers.js) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Javascript](solutions/771_JewelsandStones.js) |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation) | [Javascript](solutions/784_LetterCasePermutation.js) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string) | [Javascript](solutions/796_RotateString.js) |
@@ -136,6 +137,7 @@
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Javascript](solutions/884_UncommonWordsFromTwoSentences.js) |
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [Javascript](solutions/888_FairCandySwap.js) |
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Javascript](solutions/890_FindAndReplacePattern.js) |
+| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Javascript](solutions/896_MonotonicArray.js) |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | [Javascript](solutions/897_IncreasingOrderSearchTree.js) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Javascript](solutions/905_SortArrayByParity.js) |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [Javascript](solutions/917_ReverseOnlyLetters.js) |
