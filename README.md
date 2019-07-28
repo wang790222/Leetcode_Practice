@@ -108,6 +108,7 @@
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Javascript](solutions/590_N-aryTreePostorderTraversal.js) |
 | 592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) | [Javascript](solutions/592_FractionAdditionAndSubtraction.js) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Javascript](solutions/617_MergeTwoBinaryTrees.js) |
+| 640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation) | [Javascript](solutions/640_SolveTheEquation.js) |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Javascript](solutions/645_SetMismatch.js) |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Javascript](solutions/647_PalindromicSubstrings.js) |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | [Javascript](solutions/657_RobotReturntoOrigin.js) |
