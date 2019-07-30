@@ -8,6 +8,7 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Javascript](solutions/7_ReverseInteger.js) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Javascript](solutions/9_PalindromeNumber.js) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Javascript](solutions/14_LongestCommonPrefix.js) |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | [Javascript](solutions/16_3SumClosest.js) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Javascript](solutions/20_ValidParentheses.js) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Javascript](solutions/21_MergeTwoSortedLists.js) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Javascript](solutions/26_RemoveDuplicatesfromSortedArray.js) |
