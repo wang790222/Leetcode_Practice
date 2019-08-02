@@ -5,6 +5,7 @@
 |---|----|-----|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Javascript](solutions/1_TwoSum.js) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Javascript](solutions/2_AddTwoNumbers.js) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Javascript](solutions/3_LongestSubstringWithoutRepeatingCharacters.js) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Javascript](solutions/7_ReverseInteger.js) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Javascript](solutions/9_PalindromeNumber.js) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Javascript](solutions/14_LongestCommonPrefix.js) |
@@ -111,6 +112,7 @@
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Javascript](solutions/589_N-aryTreePreorderTraversal.js) |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Javascript](solutions/590_N-aryTreePostorderTraversal.js) |
 | 592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) | [Javascript](solutions/592_FractionAdditionAndSubtraction.js) |
+| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | [Javascript](solutions/594_LongestHarmoniousSubsequence.js) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Javascript](solutions/617_MergeTwoBinaryTrees.js) |
 | 640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation) | [Javascript](solutions/640_SolveTheEquation.js) |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Javascript](solutions/645_SetMismatch.js) |
