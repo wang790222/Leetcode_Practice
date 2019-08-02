@@ -117,6 +117,7 @@
 | 640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation) | [Javascript](solutions/640_SolveTheEquation.js) |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Javascript](solutions/645_SetMismatch.js) |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Javascript](solutions/647_PalindromicSubstrings.js) |
+| 648 | [Replace Words](https://leetcode.com/problems/replace-words) | [Javascript](solutions/648_ReplaceWords.js) |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | [Javascript](solutions/657_RobotReturntoOrigin.js) |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | [Javascript](solutions/665_NondecreasingArray.js) |
 | 670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap) | [Javascript](solutions/670_MaximumSwap.js) |
