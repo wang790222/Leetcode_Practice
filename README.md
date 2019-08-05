@@ -36,6 +36,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Javascript](solutions/101_SymmetricTree.js) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Javascript](solutions/104_MaximumDepthofBinaryTree.js) |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | [Javascript](solutions/107_BinaryTreeLevelOrderTraversalII.js) |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Javascript](solutions/114_FlattenBinaryTreetoLinkedList.js) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Javascript](solutions/118_Pascal'sTriangle.js) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Javascript](solutions/119_Pascal'sTriangleII.js) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Javascript](solutions/121_BestTimetoBuyandSellStock.js) |
