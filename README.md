@@ -45,6 +45,7 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Javascript](solutions/136_SingleNumber.js) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Javascript](solutions/141_LinkedListCycle.js) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list) | [Javascript](solutions/148_SortList.js) |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Javascript](solutions/152_MaximumProductSubarray.js) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | [Javascript](solutions/155_MinStack.js) |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Javascript](solutions/160_IntersectionofTwoLinkedLists.js) |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Javascript](solutions/167_TwoSumII-Inputarrayissorted.js) |
