@@ -120,6 +120,7 @@
 | 592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) | [Javascript](solutions/592_FractionAdditionAndSubtraction.js) |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | [Javascript](solutions/594_LongestHarmoniousSubsequence.js) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Javascript](solutions/617_MergeTwoBinaryTrees.js) |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Javascript](solutions/628_MaximumProductofThreeNumbers.js) |
 | 640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation) | [Javascript](solutions/640_SolveTheEquation.js) |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Javascript](solutions/645_SetMismatch.js) |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Javascript](solutions/647_PalindromicSubstrings.js) |
