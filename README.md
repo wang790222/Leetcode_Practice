@@ -104,6 +104,7 @@
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Javascript](solutions/461_HammingDistance.js) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Javascript](solutions/463_IslandPerimeter.js) |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement) | [Javascript](solutions/476_NumberComplement.js) |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Javascript](solutions/485_MaxConsecutiveOnes.js) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Javascript](solutions/496_NextGreaterElementI.js) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Javascript](solutions/500_KeyboardRow.js) |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Javascript](solutions/501_FindModeinBinarySearchTree.js) |
