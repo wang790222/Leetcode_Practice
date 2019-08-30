@@ -122,6 +122,7 @@
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Javascript](solutions/589_N-aryTreePreorderTraversal.js) |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Javascript](solutions/590_N-aryTreePostorderTraversal.js) |
 | 592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) | [Javascript](solutions/592_FractionAdditionAndSubtraction.js) |
+| 593 | [Valid Square](https://leetcode.com/problems/valid-square) | [Javascript](solutions/593_ValidSquare.js) |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | [Javascript](solutions/594_LongestHarmoniousSubsequence.js) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Javascript](solutions/617_MergeTwoBinaryTrees.js) |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Javascript](solutions/628_MaximumProductofThreeNumbers.js) |
