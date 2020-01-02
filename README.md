@@ -184,4 +184,5 @@
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Javascript](solutions/1108_DefangingAnIPAddress.js) |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [Javascript](solutions/1128_NumberOfEquivalentDominoPairs.js) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Javascript](solutions/1281_SubtracttheProductandSumofDigitsofanInteger.js) |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Javascript](solutions/1290_ConvertBinaryNumberinaLinkedListtoInteger.js) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Javascript](solutions/1295_FindNumberswithEvenNumberofDigits.js) |
