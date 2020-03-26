@@ -1,0 +1,36 @@
+/**
+ * @param {string} s
+ * @return {string}
+ */
+var frequencySort = function(s) {
+  let ans = "";
+  let sortObj = {};
+  const freq = s.split('').reduce((result, c) => {
+    if (c in result) {
+      result[c]++;
+    } else {
+      result[c] = 1;
+    }
+
+    if (result[c] in sortObj) {
+      sortObj[result[c]].push(c);
+    } else {
+      sortObj[result[c]] = [c];
+    }
+
+    return result;
+  }, {});
+
+  Object.values(freq).sort((a,b) => {
+    return b - a;
+  }).forEach((i) => {
+    const temp = sortObj[i][sortObj[i].length - 1]
+    ans += temp.repeat(i);
+
+    for (let key in sortObj) {
+      sortObj[key].splice(sortObj[key].indexOf(temp), 1)
+    }
+  });
+
+  return ans;
+};
