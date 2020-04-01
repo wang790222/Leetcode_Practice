@@ -174,6 +174,7 @@
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [Javascript](solutions/965_UnivaluedBinaryTree.js) |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [Javascript](solutions/973_KClosestPointstoOrigin.js) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Javascript](solutions/977_SquaresofaSortedArray.js) |
+| 984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [Javascript](solutions/984_StringWithoutAAAorBBB.js) |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries) | [Javascript](solutions/985_SumofEvenNumbersAfterQueries.js) |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Javascript](solutions/989_AddtoArray-FormofInteger.js) |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [Javascript](solutions/999_AvailableCapturesforRook.js) |
