@@ -192,3 +192,4 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Javascript](solutions/1281_SubtracttheProductandSumofDigitsofanInteger.js) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Javascript](solutions/1290_ConvertBinaryNumberinaLinkedListtoInteger.js) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Javascript](solutions/1295_FindNumberswithEvenNumberofDigits.js) |
+| 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Javascript](solutions/1317_ConvertIntegertotheSumofTwoNo-ZeroIntegers.js) |
