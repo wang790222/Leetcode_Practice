@@ -169,6 +169,7 @@
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [Javascript](solutions/938_RangeSumofBST.js) |
 | 942 | [DI String Match](https://leetcode.com/problems/di-string-match) | [Javascript](solutions/942_DIStringMatch.js) |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Javascript](solutions/944_DeleteColumnstoMakeSorted.js) |
+| 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Javascript](solutions/945_MinimumIncrementtoMakeArrayUnique.js) |
 | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [Javascript](solutions/953_VerifyinganAlienDictionary.js) |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [Javascript](solutions/961_N-RepeatedElementinSize2NArray.js) |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [Javascript](solutions/965_UnivaluedBinaryTree.js) |
