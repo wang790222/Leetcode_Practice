@@ -114,6 +114,7 @@
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Javascript](solutions/503_NextGreaterElementII.js) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [Javascript](solutions/509_FibonacciNumber.js) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [Javascript](solutions/520_DetectCapital.js) |
+| 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Javascript](solutions/525_ContiguousArray.js) |
 | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | [Javascript](solutions/535_EncodeAndDecodeTinyURL.js) |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | [Javascript](solutions/538_ConvertBSTtoGreaterTree.js) |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Javascript](solutions/543_DiameterofBinaryTree.js) |
