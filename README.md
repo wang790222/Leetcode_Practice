@@ -193,6 +193,7 @@
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [Javascript](solutions/1128_NumberOfEquivalentDominoPairs.js) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Javascript](solutions/1189_MaximumNumberofBalloons.js) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Javascript](solutions/1207_UniqueNumberofOccurrences.js) |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Javascript](solutions/1221_SplitaStringinBalancedStrings.js) |
 | 1247 | [Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) | [Javascript](solutions/1247_MinimumSwapstoMakeStringsEqual.js) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Javascript](solutions/1281_SubtracttheProductandSumofDigitsofanInteger.js) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Javascript](solutions/1290_ConvertBinaryNumberinaLinkedListtoInteger.js) |
