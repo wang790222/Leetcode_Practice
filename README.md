@@ -142,6 +142,7 @@
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Javascript](solutions/680_ValidPalindromeII.js) |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [Javascript](solutions/696_CountBinarySubstrings.js) |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Javascript](solutions/700_SearchinaBinarySearchTree.js) |
+| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Javascript](solutions/706_DesignHashMap.js) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Javascript](solutions/709_ToLowerCase.js) |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) | [Javascript](solutions/717_1-bitAnd2-bitCharacters.js) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Javascript](solutions/728_SelfDividingNumbers.js) |
