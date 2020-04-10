@@ -189,6 +189,7 @@
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [Javascript](solutions/1046_LastStoneWeight.js) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | [Javascript](solutions/1051_HeightChecker.js) |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Javascript](solutions/1071_GreatestCommonDivisorOfStrings.js) |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Javascript](solutions/1078_OccurrencesAfterBigram.js) |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | [Javascript](solutions/1089_DuplicateZeros.js) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Javascript](solutions/1108_DefangingAnIPAddress.js) |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [Javascript](solutions/1128_NumberOfEquivalentDominoPairs.js) |
