@@ -114,6 +114,7 @@
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Javascript](solutions/500_KeyboardRow.js) |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Javascript](solutions/501_FindModeinBinarySearchTree.js) |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Javascript](solutions/503_NextGreaterElementII.js) |
+| 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Javascript](solutions/506_RelativeRanks.js) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [Javascript](solutions/509_FibonacciNumber.js) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [Javascript](solutions/520_DetectCapital.js) |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Javascript](solutions/525_ContiguousArray.js) |
