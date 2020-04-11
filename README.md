@@ -92,6 +92,7 @@
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Javascript](solutions/349_IntersectionofTwoArrays.js) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [Javascript](solutions/350_IntersectionofTwoArraysII.js) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [Javascript](solutions/367_ValidPerfectSquare.js) |
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Javascript](solutions/371_SumofTwoIntegers.js) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Javascript](solutions/383_RansomNote.js) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Javascript](solutions/387_FirstUniqueCharacterinaString.js) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [Javascript](solutions/389_FindtheDifference.js) |
