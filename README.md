@@ -20,6 +20,7 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Javascript](solutions/33_SearchInRotatedSortedArray.js) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Javascript](solutions/35_SearchInsertPosition.js) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Javascript](solutions/36_ValidSudoku.js) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Javascript](solutions/49_GroupAnagrams.js) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Javascript](solutions/53_MaximumSubarray.js) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Javascript](solutions/58_LengthofLastWord.js) |
 | 59 | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Javascript](solutions/59_SpiralMatrixII.js) |
