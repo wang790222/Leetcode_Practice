@@ -123,6 +123,7 @@
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | [Javascript](solutions/561_ArrayPartitionI.js) |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Javascript](solutions/563_BinaryTreeTilt.js) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Javascript](solutions/566_Reshape_the_Matrix.js) |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Javascript](solutions/575_DistributeCandies.js) |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [Javascript](solutions/581_ShortestUnsortedContinuousSubarray.js) |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Javascript](solutions/589_N-aryTreePreorderTraversal.js) |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Javascript](solutions/590_N-aryTreePostorderTraversal.js) |
