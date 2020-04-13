@@ -25,6 +25,7 @@
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Javascript](solutions/58_LengthofLastWord.js) |
 | 59 | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Javascript](solutions/59_SpiralMatrixII.js) |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | [Javascript](solutions/60_PermutationSequence.js) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Javascript](solutions/61_RotateList.js) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Javascript](solutions/66_PlusOne.js) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Javascript](solutions/67_AddBinary.js) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Javascript](solutions/69_Sqrt(x).js) |
