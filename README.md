@@ -150,6 +150,7 @@
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Javascript](solutions/706_DesignHashMap.js) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Javascript](solutions/709_ToLowerCase.js) |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) | [Javascript](solutions/717_1-bitAnd2-bitCharacters.js) |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [Javascript](solutions/725_SplitLinkedListinParts.js) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Javascript](solutions/728_SelfDividingNumbers.js) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Javascript](solutions/739_DailyTemperatures.js) |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Javascript](solutions/746_MinCostClimbingStairs.js) |
