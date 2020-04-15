@@ -163,6 +163,7 @@
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | [Javascript](solutions/811_SubdomainVisitCount.js) |
 | 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Javascript](solutions/821_ShortestDistancetoaCharacter.js) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | [Javascript](solutions/832_FlippinganImage.js) |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Javascript](solutions/844_BackspaceStringCompare.js) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Javascript](solutions/852_PeakIndexinaMountainArray.js) |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [Javascript](solutions/859_BuddyStrings.js) |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Javascript](solutions/860_LemonadeChange.js) |
