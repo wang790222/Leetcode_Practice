@@ -194,6 +194,7 @@
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | [Javascript](solutions/1005_MaximizeSumOfArrayAfterKNegations.js) |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [Javascript](solutions/1009_ComplementOfBase10Integer.js) |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Javascript](solutions/1013_PartitionArrayIntoThreePartsWithEqualSum.js) |
+| 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Javascript](solutions/1029_TwoCityScheduling.js) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [Javascript](solutions/1046_LastStoneWeight.js) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | [Javascript](solutions/1051_HeightChecker.js) |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Javascript](solutions/1071_GreatestCommonDivisorOfStrings.js) |
