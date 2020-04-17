@@ -202,6 +202,7 @@
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Javascript](solutions/1078_OccurrencesAfterBigram.js) |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | [Javascript](solutions/1089_DuplicateZeros.js) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Javascript](solutions/1108_DefangingAnIPAddress.js) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Javascript](solutions/1190_RSubSBetweenParentheses.js) |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [Javascript](solutions/1128_NumberOfEquivalentDominoPairs.js) |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | [Javascript](solutions/1137_N-thTribonacciNumber) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Javascript](solutions/1189_MaximumNumberofBalloons.js) |
