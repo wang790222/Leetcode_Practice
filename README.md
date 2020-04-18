@@ -199,6 +199,7 @@
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Javascript](solutions/1029_TwoCityScheduling.js) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [Javascript](solutions/1046_LastStoneWeight.js) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | [Javascript](solutions/1051_HeightChecker.js) |
+| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Javascript](solutions/1052_GrumpyBookstoreOwner.js) |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Javascript](solutions/1071_GreatestCommonDivisorOfStrings.js) |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Javascript](solutions/1078_OccurrencesAfterBigram.js) |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | [Javascript](solutions/1089_DuplicateZeros.js) |
