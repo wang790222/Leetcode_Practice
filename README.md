@@ -215,6 +215,7 @@
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Javascript](solutions/1288_RemoveCoveredIntervals.js) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Javascript](solutions/1290_ConvertBinaryNumberinaLinkedListtoInteger.js) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Javascript](solutions/1295_FindNumberswithEvenNumberofDigits.js) |
+| 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Javascript](solutions/1313_DecompressRun-LengthEncodedList.js) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Javascript](solutions/1317_ConvertIntegertotheSumofTwoNo-ZeroIntegers.js) |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Javascript](solutions/1323_Maximum69Number.js) |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Javascript](solutions/1356_SortIntegersbyTheNumberof1Bits.js) |
