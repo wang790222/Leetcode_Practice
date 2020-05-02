@@ -191,7 +191,6 @@
 | 984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [Javascript](solutions/984_StringWithoutAAAorBBB.js) |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries) | [Javascript](solutions/985_SumofEvenNumbersAfterQueries.js) |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Javascript](solutions/989_AddtoArray-FormofInteger.js) |
-| 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Javascript](solutions/950_RevealCardsInIncreasingOrder.js) |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [Javascript](solutions/999_AvailableCapturesforRook.js) |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Javascript](solutions/1002_FindCommonCharacters.js) |
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | [Javascript](solutions/1005_MaximizeSumOfArrayAfterKNegations.js) |
