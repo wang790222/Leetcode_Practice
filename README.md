@@ -220,6 +220,7 @@
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Javascript](solutions/1317_ConvertIntegertotheSumofTwoNo-ZeroIntegers.js) |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Javascript](solutions/1323_Maximum69Number.js) |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Javascript](solutions/1329_SorttheMatrixDiagonally.js) |
+| 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [Javascript](solutions/1338_ReduceArraySizetoTheHalf.js) |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Javascript](solutions/1356_SortIntegersbyTheNumberof1Bits.js) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Javascript](solutions/1365_HowManyNumSmallerThanCurrentNum.js) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Javascript](solutions/1380_LuckyNumbersinaMatrix.js) |
