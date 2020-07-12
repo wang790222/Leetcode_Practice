@@ -31,6 +31,7 @@
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Javascript](solutions/69_Sqrt(x).js) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Javascript](solutions/70_ClimbingStairs.js) |
 | 77 | [Combinations](https://leetcode.com/problems/combinations) | [Javascript](solutions/77_Combinations.js) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Javascript](solutions/78_Subsets.js) |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Javascript](solutions/80_RemoveDuplicatesFromSortedArrayII.js) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | [Javascript](solutions/81_SearchInRotatedSortedArrayII.js) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Javascript](solutions/83_RemoveDuplicatesfromSortedList.js) |
