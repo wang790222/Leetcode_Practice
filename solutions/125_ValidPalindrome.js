@@ -3,32 +3,23 @@
  * @return {boolean}
  */
 var isPalindrome = function(s) {
-
-  let deleteSpace = s.split(" ").join("").toLowerCase();
-
-  let alpha = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","0","1","2","3","4","5","6","7","8","9"];
-
-  if (deleteSpace.length === 0) {
+  if (!s.length || s.length === 1) {
     return true;
   }
 
-  let frontIndex = 0;
-  let tearIndex = deleteSpace.length - 1;
 
-  while(frontIndex < tearIndex) {
-    if (!alpha.includes(deleteSpace[frontIndex])) {
-      frontIndex++;
-    } else {
-       if (!alpha.includes(deleteSpace[tearIndex]))  {
-      tearIndex--;
-       } else {
-         if (deleteSpace[frontIndex].toLowerCase() !== deleteSpace[tearIndex].toLowerCase()) {
-           return false;
-         }
+  const purifiedStr = s.split('').reduce((result, c) => {
+    if (/^[a-zA-Z0-9]+$/.test(c)) {
+      result += c;
+    }
 
-         frontIndex++;
-         tearIndex--;
-       }
+    return result;
+  }, '');
+
+  for (let i = 0; i < purifiedStr.length / 2; i++) {
+    if (purifiedStr[i].toUpperCase() !== purifiedStr[purifiedStr.length - i - 1].toUpperCase()) {
+
+      return false;
     }
   }
 
