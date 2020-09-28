@@ -228,3 +228,5 @@
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Javascript](solutions/1365_HowManyNumSmallerThanCurrentNum.js) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Javascript](solutions/1380_LuckyNumbersinaMatrix.js) |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Javascript](solutions/1389_CreateTargetArrayintheGivenOrder.js) |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Javascript](solutions/1480_RunningSumof1dArray.js) |
+
